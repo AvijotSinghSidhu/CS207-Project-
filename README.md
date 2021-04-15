@@ -1,9 +1,11 @@
 # CS207-Project-GAME-Tic Tac Toe
 
 # Table of Content
-* Feature list
-* Bilding Instructions
-* *
+
+  Feature list
+  Bilding Instructions
+  
+
 # Feature List
 
 
