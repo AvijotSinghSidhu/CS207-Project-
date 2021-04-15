@@ -101,7 +101,7 @@ Bill of Materials:
 5. I want to add reset button to IR Remote.
 6. I want to add Colour slecting feature.
 7. I improve its physical design.
-8. 
+ 
 
 # Bug List
 1. Some times IR sensor ditects 0 even if button is not pressed on Remote.
